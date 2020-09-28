@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp2.0\EmployeeWageProblem.deps.json
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp2.0\EmployeeWageProblem.runtimeconfig.json
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp2.0\EmployeeWageProblem.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp2.0\EmployeeWageProblem.dll
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp2.0\EmployeeWageProblem.pdb
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp2.0\EmployeeWageProblem.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp2.0\EmployeeWageProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp2.0\EmployeeWageProblem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp2.0\EmployeeWageProblem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp2.0\EmployeeWageProblem.dll
+C:\Users\Admin\source\repos\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp2.0\EmployeeWageProblem.pdb

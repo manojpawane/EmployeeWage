@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\bin\Debug\netcoreapp2.1\CalculateDailyWage.deps.json
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\bin\Debug\netcoreapp2.1\CalculateDailyWage.runtimeconfig.json
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\bin\Debug\netcoreapp2.1\CalculateDailyWage.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\bin\Debug\netcoreapp2.1\CalculateDailyWage.dll
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\bin\Debug\netcoreapp2.1\CalculateDailyWage.pdb
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\obj\Debug\netcoreapp2.1\CalculateDailyWage.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\obj\Debug\netcoreapp2.1\CalculateDailyWage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\obj\Debug\netcoreapp2.1\CalculateDailyWage.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\obj\Debug\netcoreapp2.1\CalculateDailyWage.AssemblyInfo.cs
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\obj\Debug\netcoreapp2.1\CalculateDailyWage.dll
+C:\Users\Admin\source\repos\EmployeeWageProblem\CalculateDailyWage\obj\Debug\netcoreapp2.1\CalculateDailyWage.pdb
